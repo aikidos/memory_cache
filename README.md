@@ -1,6 +1,9 @@
 # MemoryCache
 Local in-memory cache for Nim.
 
+# Todo
+- [ ] Removing old keys in the background.
+
 ## Usage
 ```nim
 import memory_cache
