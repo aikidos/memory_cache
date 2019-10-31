@@ -1,8 +1,5 @@
 # MemoryCache
-Local in-memory cache for Nim.
-
-# Todo
-- [ ] Removing old keys in the background.
+Simple local in-memory cache for Nim.
 
 ## Usage
 ```nim
