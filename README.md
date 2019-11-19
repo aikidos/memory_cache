@@ -1,7 +1,11 @@
-# MemoryCache
+MemoryCache
+===
+
 Simple local in-memory cache for Nim.
 
-## Usage
+Example
+---
+
 ```nim
 import memory_cache
 import times
